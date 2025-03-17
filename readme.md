@@ -1,4 +1,4 @@
-# Versagen (AAAI 2025)
+# Versagen (AAAI 2025 Oral)
 
 <a href='https://arxiv.org/abs/2412.11594'><img src='https://img.shields.io/badge/technical-paper-green'></a>
 
