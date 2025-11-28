@@ -1,0 +1,10 @@
+torch==2.0.1
+torchvision==0.15.2
+torchtext==0.15.2
+diffusers==0.24.0
+transformers==4.40.1
+Pillow==10.2.0
+opencv-python
+accelerate
+gradio==3.50.2
+huggingface_hub==0.25.2
